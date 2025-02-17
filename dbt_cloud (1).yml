@@ -1,0 +1,14 @@
+version: "1"
+context:
+  active-host: "xi241.us1.dbt.com"
+  active-project: "70471823431212"
+projects:
+  - project-name: "Analytics"
+    project-id: "70471823431212"
+    account-name: "upsurge"
+    account-id: "70471823427384"
+    account-host: "xi241.us1.dbt.com"
+    token-name: "cloud-cli-1d49"
+    token-value: "dbtu_PCYiqeQ9zybkg6qBTitMGq2cNAwP1oSAoQ2mZFNR56ZTvn9cjU"
+
+
